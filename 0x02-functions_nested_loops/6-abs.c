@@ -2,9 +2,9 @@
 
 /**
  *
- * _abs - function that computes the absolutevalue of an integer
+ * Description: _abs - function that computes the absolutevalue of an integer
  *
- * Description: @n - takes in integer type input for function
+ * @n: takes in integer type input for function
  *
  * Return: Always 0 (Success)
 */
